@@ -1,0 +1,13 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+  <f:section title="Spark notifier">
+    <f:entry title="Spark access token" field="accessToken">
+     <f:textbox />
+    </f:entry>
+    <f:entry title="Device id" field="deviceId">
+     <f:textbox />
+    </f:entry>
+    <f:entry title="Function name" field="function">
+     <f:textbox />
+    </f:entry>
+  </f:section>
+</j:jelly>
