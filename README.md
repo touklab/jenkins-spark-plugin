@@ -1,8 +1,3 @@
-jenkins-spark-plugin
-====================
-
-Trigger a call in your Spark.io device when build in Jenkins fails
-=======
 # Jenkins Spark.io Plugin
 
 > A plugin that triggers your [Spark.io](http://spark.io) device when Jenkins build fails.
@@ -14,7 +9,8 @@ and a head full of IoT ideas for your build failed notificator ;)
 ## Configuration
 
 ## Sample Spark.io code
-```
+
+```c
 int pin = D0;
 
 int trigger(String command);
