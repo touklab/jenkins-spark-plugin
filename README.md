@@ -43,3 +43,6 @@ This video shows a Spark Core connected to Arduino with Adafruit's [Wave Shield]
 
 [![ScreenShot](http://img.youtube.com/vi/qTfU8mA94W8/0.jpg)](https://www.youtube.com/watch?v=qTfU8mA94W8)
 
+## License
+
+This project is licenced under Apache License Version 2.0
