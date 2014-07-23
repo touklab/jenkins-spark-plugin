@@ -2,7 +2,7 @@
 
 > A plugin that triggers your [Spark.io](http://spark.io) device when Jenkins build fails.
 
-[![Build Status](http://img.shields.io/travis/toukLab/jenkins-spark-plugin.svg?style=flat)](https://travis-ci.org/touklab/jenkins-spark-plugin)
+[![Build Status](http://img.shields.io/travis/touklab/jenkins-spark-plugin.svg?style=flat)](https://travis-ci.org/touklab/jenkins-spark-plugin)
 
 This plugin adds a post-build action which allows to execute a function on your Spark device. 
 The call is invoked via a REST call to [Spark Cloud API](http://docs.spark.io/api/) so all you need is a Spark core connected to the cloud and a head full of IoT ideas for your build failed notificator ;) 
